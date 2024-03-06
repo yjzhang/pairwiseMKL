@@ -1,0 +1,124 @@
+176870	Erlotinib
+5284616	Sirolimus
+5329102	Sunitinib
+10461815	Pha-665752
+462382	Z-Leu-leu-leu-al
+36314	Paclitaxel
+442972	Cyclopamine
+11676786	3-(2-Cyanopropan-2-yl)-N-(4-methyl-3-((3-methyl-4-oxo-3,4-dihydroquinazolin-6-yl)amino)phenyl)benzamide
+216239	Sorafenib
+5494449	Tozasertib
+5291	Imatinib
+16038120	5-chloro-N4-(2-(isopropylsulfonyl)phenyl)-N2-(2-methoxy-4-(4-(4-methylpiperazin-1-yl)piperidin-1-yl)phenyl)pyrimidine-2,4-diamine
+11496366	3-[1-(2,6-Dichloro-3-fluorophenyl)ethoxy]-5-[1-(1-methylpiperidin-4-yl)pyrazol-4-yl]pyridin-2-amine
+10302451	Saracatinib
+76044	S-Trityl-L-cysteine
+16760646	Cbz-D-Leu-Leu-DL-Nle-al
+3062316	Dasatinib
+5311510	3-(6-((4-(Trifluoromethoxy)phenyl)amino)pyrimidin-4-yl)benzamide
+644215	1-Propanol, 3-[[4-[2-[(3-chlorophenyl)amino]-4-pyrimidinyl]-2-pyridinyl]amino]-
+24825971	Cdk4/6 Inhibitor IV
+9549184	1H-Indole-2-carboxamide, N-(4-(1-(trans-4-(4-acetyl-1-piperazinyl)cyclohexyl)-4-amino-1H-pyrazolo(3,4-d)pyrimidin-3-yl)-2-methoxyphenyl)-1-methyl-
+11844351	2,6-Dimethylphenyl (2,4-dimethoxyphenyl)(2-((4-(4-methylpiperazin-1-yl)phenyl)amino)pyrimidin-4-yl)carbamate
+49821040	N-methyl-N-[4-[[6-[[1-(1-oxoprop-2-enyl)-3-piperidinyl]amino]-7H-purin-2-yl]amino]phenyl]propanamide
+11364421	4-{[(7r)-8-Cyclopentyl-7-Ethyl-5-Methyl-6-Oxo-5,6,7,8-Tetrahydropteridin-2-Yl]amino}-3-Methoxy-N-(1-Methylpiperidin-4-Yl)benzamide
+10390396	
+20635522	ITK inhibitor
+4993	Pyrimethamine
+49836027	Torin 1
+10172943	(2s)-1-(1h-Indol-3-Yl)-3-{[5-(3-Methyl-1h-Indazol-5-Yl)pyridin-3-Yl]oxy}propan-2-Amine
+15983966	(R)-5-(6-((4-methylpiperazin-1-yl)methyl)-1H-benzo[d]imidazol-1-yl)-3-(1-(2-(trifluoromethyl)phenyl)ethoxy)thiophene-2-carboxamide
+4261	Entinostat
+5420805	4,5-alpha-Epoxy-6-beta-hydroxygermacra-1(10),11(13)-dien-12-oic acid gamma-lactone
+11626927	IKK-3 Inhibitor
+9907093	7-methyl-2-morpholino-9-(1-(phenylamino)ethyl)-4H-pyrido[1,2-a]pyrimidin-4-one
+387447	Bortezomib
+46844147	Erk5-IN-1
+160355	Seliciclib
+5717801	Salubrinal
+208908	Lapatinib
+16095342	N-[3-[2-(4-amino-1,2,5-oxadiazol-3-yl)-1-ethylimidazo[4,5-c]pyridin-6-yl]oxyphenyl]-4-(2-morpholin-4-ylethoxy)benzamide
+31703	Doxorubicin
+36462	Etoposide
+60750	Gemcitabine
+5746	Mitomycin
+60780	Alocrest
+5459322	
+2375	Bicalutamide
+24202429	N-[(2R,3S,4S,6S)-3-methoxy-2-methyl-16-oxo-29-oxa-1,7,17-triazaoctacyclo[12.12.2.12,6.07,28.08,13.015,19.020,27.021,26]nonacosa-8,10,12,14,19,21,23,25,27-nonaen-4-yl]-N-methylbenzamide
+9956119	6-((2-((4-(2,4-Dichlorophenyl)-5-(4-methyl-1H-imidazol-2-yl)pyrimidin-2-yl)amino)ethyl)amino)nicotinonitrile
+24826799	Ponatinib
+44137675	2-[[(1R)-1-[7-Methyl-2-(4-morpholinyl)-4-oxo-4H-pyrido[1,2-a]pyrimidin-9-yl]ethyl]amino]benzoic acid
+11713159	PF-00562271 free base
+560326	Dimethyloxalylglycine
+3005532	methyl (2S)-2-[[4-[[(2R)-2-amino-3-sulfanylpropyl]amino]-2-phenylbenzoyl]amino]-4-methylsulfanylbutanoate
+10027278	PDK1 inhibitor AR-12
+5208	C.I. Natural Red 20
+16218954	
+3218	Embelin
+3463933	2,5-dichloro-N-(2-methyl-4-nitrophenyl)benzenesulfonamide
+6851947	
+521106	Bis(2-hydroxy-1-naphthyl) disulfide
+25022668	2-cyclopentyl-4-(5-phenyl-1H-pyrrolo[2,3-b]pyridin-3-yl)benzoic acid
+16760671	2-[[7-(3,4-Dimethoxyphenyl)imidazo[1,2-c]pyrimidin-5-yl]amino]pyridine-3-carboxamide;dihydrate;hydrochloride
+446378	Thapsigargin
+16727411	(2E)-2-[(5E)-5-[(3,5-Dimethyl-1H-pyrrol-2-yl)methylidene]-4-methoxypyrrol-2-ylidene]indole;methanesulfonic acid
+24785538	Bms-754807
+11640390	Linsitinib
+82146	Bexarotene
+5460769	Bleomycin a2
+54676905	(Z)-2-cyano-N-(2,5-dibromophenyl)-3-hydroxybut-2-enamide
+10096043	
+5280757	Bryostatin 1
+10113978	Pazopanib
+6445533	Dacinostat
+448013	Epothilone B
+25124816	N-(2,6-Difluorophenyl)-5-[3-[2-[[5-ethyl-2-(methyloxy)-4-[4-[4-(methylsulfonyl)-1-piperazinyl]-1-piperidinyl]phenyl]amino]-4-pyrimidinyl]imidazo[1,2-a]pyridin-2-yl]-2-(methyloxy)benzamide
+159324	Tipifarnib
+11422035	2-[(2Z)-2,3-dihydro-1,3-benzothiazol-2-ylidene]-2-(2-{[2-(pyridin-3-yl)ethyl]amino}pyrimidin-4-yl)acetonitrile
+65110	AICA ribonucleotide
+104842	7-Ethyl-10-hydroxycamptothecin
+6710780	Vinblastin sulfate
+84691	cis-Diaminodichloroplatinum
+6253	Cytarabine
+148124	Docetaxel
+126941	Methotrexate
+444795	Tretinoin
+123631	Gefitinib
+24978538	Navitoclax
+5311	Vorinostat
+644241	Nilotinib
+44182295	Refametinib
+6918454	2-(2-chloro-4-iodophenylamino)-N-cyclopropylmethoxy-3,4-difluorobenzamide
+6918289	Temsirolimus
+23725625	Olaparib
+11960529	Veliparib
+5328940	Bosutinib
+216326	Lenalidomide
+6450551	Axitinib
+126565	Lestaurtinib
+6505803	Tanespimycin
+10341154	VX-702
+11667893	Motesanib
+5278396	2-Morpholino-6-(thianthren-1-yl)-4H-pyran-4-one
+10184653	Afatinib
+24776445	Vismodegib
+24180719	N-(3-(5-chloro-1H-pyrrolo[2,3-b]pyridine-3-carbonyl)-2,4-difluorophenyl)propane-1-sulfonamide
+10077147	N-[3-[[5-Iodo-4-[[3-[(2-thienylcarbonyl)amino]propyl]amino]-2-pyrimidinyl]amino]phenyl]-1-pyrrolidinecarboxamide
+11327430	8-(4-Dibenzothienyl)-2-(4-morpholinyl)-4H-1-benzopyran-4-one
+156422	Doramapimod
+11624601	JNK Inhibitor VIII
+10384072	Wee1 Inhibitor
+11433190	nutlin-3A
+1401	1-(tert-Butyl)-3-(2-((4-(diethylamino)butyl)amino)-6-(3,5-dimethoxyphenyl)pyrido[2,3-d]pyrimidin-7-yl)urea
+9914412	N-[4-[[6-Methoxy-7-[3-(4-morpholinyl)propoxy]-4-quinazolinyl]amino]phenyl]benzamide
+44450571	
+5330286	Palbociclib
+17755052	Pictilisib
+9826528	N-[(2R)-2,3-dihydroxypropoxy]-3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]benzamide
+11316960	
+10127622	Selumetinib
+46883536	Avagacestat
+11609586	Serdemetan
+11455910	N-[4-(2-tert-Butylphenylsulfonyl)phenyl]-2,3,4-trihydroxy-5-(2-isopropylbenzyl)benzamide
+9931953	Rucaparib phosphate
